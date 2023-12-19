@@ -8,9 +8,13 @@ This repository serves as a showcase of my contributions to **YellowBrick** and 
 
 - Effectively integrated the Google Analytics 4 API, creating a seamless linkage between internal company API CRUD services and a tailored React Analytical Admin component.
 
+<img src="https://github.com/SammyAlvarado/YellowBrick/blob/main/react/img/Admin%20Analytics.png?raw=true">
+
 - Enhanced system functionality through the implementation of dynamic React components to provide user access to a wide range of analytical metrics, encompassing user interaction, average user sessions, and crucial demographic data.
 
 - Strengthened code security by implementing secured routing, effectively preventing unauthorized users from accessing sensitive user analytical information.
+
+<img src="https://github.com/SammyAlvarado/YellowBrick/blob/main/react/img/Admin%20Analytics%202.png?raw=true">
 
 - Engineered customized API services using C# within the .Net framework, streamlining the generation of specialized analytical data reports.
 
